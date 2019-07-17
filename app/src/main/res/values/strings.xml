@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica1160719</string>
+    <string name="app_Ing1">Ingrese valor 1</string>
+    <string name="app_1">Numero 1</string>
+    <string name="app_Ing2">Ingrese valor 2</string>
+    <string name="app_2">Numero 2</string>
+    <string name="app_Ing3">Ingrese valor 3</string>
+    <string name="app_3">Numero 3</string>
+    <string name="app_Ord">Ordenar</string>
+    <string name="app_Num1">Menor</string>
+    <string name="app_Num2">Medio</string>
+    <string name="app_Num3">Mayor</string>
+    <string name="app_Nume1">1</string>
+    <string name="app_Nume2">2</string>
+    <string name="app_Nume3">3</string>
+</resources>
